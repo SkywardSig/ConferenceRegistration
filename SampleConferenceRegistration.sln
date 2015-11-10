@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleConferenceRegistration", "SampleConferenceRegistration\SampleConferenceRegistration.csproj", "{808EC643-0E40-43DB-90C8-36D20F9DFA15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleConferenceRegistration.Tests", "SampleConferenceRegistration.Tests\SampleConferenceRegistration.Tests.csproj", "{00962C5E-F0B5-428F-8D80-14A9BA2CE2AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{808EC643-0E40-43DB-90C8-36D20F9DFA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808EC643-0E40-43DB-90C8-36D20F9DFA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808EC643-0E40-43DB-90C8-36D20F9DFA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808EC643-0E40-43DB-90C8-36D20F9DFA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00962C5E-F0B5-428F-8D80-14A9BA2CE2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00962C5E-F0B5-428F-8D80-14A9BA2CE2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00962C5E-F0B5-428F-8D80-14A9BA2CE2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00962C5E-F0B5-428F-8D80-14A9BA2CE2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
